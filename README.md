@@ -1,4 +1,4 @@
-# NikiChatApp
+# Chat App with Firebase Integration
 
 * Implemented Chat App with Firebase Integrated
 * Chat messages are saved locally in Content Provider
@@ -7,4 +7,4 @@
 ## Contributor
 **Pooja Bhaumik**
 
-Email at _1506422@kiit.ac.in_
+Email at pbhaumik26@gmail.com
